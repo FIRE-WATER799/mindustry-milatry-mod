@@ -1,1 +1,1 @@
-
+require("mindustry-milatry-mod/scripts/button.js")
