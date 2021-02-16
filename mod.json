@@ -1,7 +1,11 @@
-name: "UsA-Military"
-displayName: "USA-Militray"
-author: "fire"
-description: "This is my first mod."
-version: "0.1"
-minGameVersion: "123"
-dependencies: [ui-lib]
+{
+    "name": "UsA-Military"
+    "displayName": "USA-Militray"
+    "author": "fire"
+    "description": "This is my first mod."
+    "version": "0.1"
+    "minGameVersion": "123"
+    "dependencies": [ui-lib]
+    "hidden": true
+    "repo": "FIRE-WATER799/mindustry-milatry-mod"
+}
